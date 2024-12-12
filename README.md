@@ -36,10 +36,10 @@ pip install -r requirements.txt
 
 ### 4. Running the Prediction Notebook
 
-```
-Download the `[ECommerce Dataset](https://drive.google.com/file/d/1k-fB3mrmDavRLdq9cWbXyt6saubUe_v7/view?usp=sharing)` and add it to the same directory as the Jupyter Notebook File
 
-```
+Download the `[OnlineRetail.csv](https://drive.google.com/file/d/1k-fB3mrmDavRLdq9cWbXyt6saubUe_v7/view?usp=sharing)` and add it to the same directory as the Jupyter Notebook File
+
+
 ---
 
 
