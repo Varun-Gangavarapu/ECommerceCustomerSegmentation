@@ -4,7 +4,7 @@ This project aims to seperate customers into different clusters based off their 
 
 ## Dataset
 
-The dataset can be accessed from Kaggle:
+The dataset can be accessed from UC Irvine Machine Learning Repository:
 [ECommerce Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 ## Setup Instructions
